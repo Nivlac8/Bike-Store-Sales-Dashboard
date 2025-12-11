@@ -21,7 +21,7 @@ This project solves a common retail problem: efficient inventory management and 
 * **Brands Table:** `brand_id`, `brand_name`
 * **Stocks Table:** Inventory counts by store location
 
-### 🛠️ Tech Stack & Skills Applied
+### 🛠️ Skills Applied
 **Tool:** Microsoft Excel (Advanced)
 
 #### 1. Application Development (The Search Tool)
