@@ -9,8 +9,8 @@ This project solves a common retail problem: efficient inventory management and 
 | File Name | Description | Download |
 | :--- | :--- | :--- |
 | **Bike_Store_Analytics.xlsx** | The complete functional Excel Application (Search Tool + Dashboard). | [📥 Download File](Bike_Store_Analytics.xlsx) |
-| **search_tool_preview.png** | Screenshot of the front-end Search UI. | (See Preview Below) |
-| **dashboard_preview.png** | Screenshot of the back-end Analytics Dashboard. | (See Preview Below) |
+| **search_tool_preview.png** | Screenshot of the front-end Search UI. | [👁️ View Image](search_tool_preview.png) |
+| **dashboard_preview.png** | Screenshot of the back-end Analytics Dashboard. | [👁️ View Image](dashboard_preview.png) |
 
 ### 📊 The Dataset
 **Source:** [Bike Store Relational Database (Kaggle)](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
