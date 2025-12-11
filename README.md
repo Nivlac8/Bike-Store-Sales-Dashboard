@@ -5,9 +5,17 @@ This project solves a common retail problem: efficient inventory management and 
 1.  **Sales Staff:** A front-end "Search Tool" allowing instant retrieval of product specs, pricing, and stock status during customer interactions.
 2.  **Management:** A back-end "Analytics Dashboard" providing high-level insights into brand distribution and pricing strategies.
 
+### 📂 Project Files
+| File Name | Description | Download/View |
+| :--- | :--- | :--- |
+| **Bike_Store_Analytics.xlsx** | The complete functional Excel Application (Search Tool + Dashboard). | [📥 Download File](Bike_Store_Analytics.xlsx) |
+| **search_tool_preview.png** | Screenshot of the front-end Search UI. | [👁️ View Image](search_tool_preview.png) |
+| **dashboard_preview.png** | Screenshot of the back-end Analytics Dashboard. | [👁️ View Image](dashboard_preview.png) |
+
 ### 📊 The Dataset
-**Source:** Relational Retail Database (Proprietary/Mock Data)
-**Size:** 3,000+ Records
+**Source:** [Bike Store Relational Database (Kaggle)](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
+*(Note: The raw data is also fully embedded within the `Products` and `Brands` sheets of the Excel file for offline access.)*
+
 **Structure:**
 * **Products Table:** `product_id`, `product_name`, `list_price`, `model_year`
 * **Brands Table:** `brand_id`, `brand_name`
@@ -26,12 +34,12 @@ This project solves a common retail problem: efficient inventory management and 
 * **Interactive Slicers:** Connected multiple charts to a single Slicer control, enabling instant filtering by **Model Year** and **Category**.
 * **Data Cleaning:** Sanitized the raw dataset by removing non-breaking spaces (ASCII 160) and correcting text-to-number formatting issues using data transformation tools.
 
-### 📸 Project Previews
+### ⚙️ How to Use This Tool
+1.  **Download** the `Bike_Store_Analytics.xlsx` file.
+2.  **Open** the file in Excel (Desktop or Web).
+3.  Navigate to the **Search_Tool** tab.
+4.  Select a bike from the **Dropdown Menu** (Cell A3) to see the dynamic price update.
+5.  Navigate to the **Dashboard** tab and use the **Slicers** to filter the charts.
 
-**1. The Search Tool (Front-End)**
-*Allows staff to check prices and stock in <2 seconds.*
-![Search Tool Preview](search_tool_preview.png)
-
-**2. The Analytics Dashboard (Back-End)**
-*Provides management with pricing trends and inventory distribution.*
-![Dashboard Preview](dashboard_preview.png)
+---
+*Created as part of a Data Analytics Portfolio Project.*
