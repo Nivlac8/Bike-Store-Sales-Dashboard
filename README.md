@@ -6,11 +6,11 @@ This project solves a common retail problem: efficient inventory management and 
 2.  **Management:** A back-end "Analytics Dashboard" providing high-level insights into brand distribution and pricing strategies.
 
 ### 📂 Project Files
-| File Name | Description | Download/View |
+| File Name | Description | Download |
 | :--- | :--- | :--- |
 | **Bike_Store_Analytics.xlsx** | The complete functional Excel Application (Search Tool + Dashboard). | [📥 Download File](Bike_Store_Analytics.xlsx) |
-| **search_tool_preview.png** | Screenshot of the front-end Search UI. | [👁️ View Image](search_tool_preview.png) |
-| **dashboard_preview.png** | Screenshot of the back-end Analytics Dashboard. | [👁️ View Image](dashboard_preview.png) |
+| **search_tool_preview.png** | Screenshot of the front-end Search UI. | (See Preview Below) |
+| **dashboard_preview.png** | Screenshot of the back-end Analytics Dashboard. | (See Preview Below) |
 
 ### 📊 The Dataset
 **Source:** [Bike Store Relational Database (Kaggle)](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
@@ -40,6 +40,18 @@ This project solves a common retail problem: efficient inventory management and 
 3.  Navigate to the **Search_Tool** tab.
 4.  Select a bike from the **Dropdown Menu** (Cell A3) to see the dynamic price update.
 5.  Navigate to the **Dashboard** tab and use the **Slicers** to filter the charts.
+
+---
+
+### 📸 Project Previews
+
+**1. The Search Tool (Front-End)**
+*Allows staff to check prices and stock in <2 seconds.*
+![Search Tool Preview](search_tool_preview.png)
+
+**2. The Analytics Dashboard (Back-End)**
+*Provides management with pricing trends and inventory distribution.*
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 *Created as part of a Data Analytics Portfolio Project.*
